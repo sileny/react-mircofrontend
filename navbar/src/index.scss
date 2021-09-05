@@ -1,0 +1,35 @@
+// 曾经写过很多样式，一直有一个想法：有很多样式只想写一次，一个样式名只写一个规则，然后，想用哪个，直接引入className即可。或许，这是一个开始，或许...
+.navbar {}
+
+.h60 {
+  height: 60px;
+}
+
+.bg-dark {
+  background-color: #333;
+}
+
+.text-white {
+  color: #fff;
+}
+
+.flex {
+  display: flex;
+}
+
+.full {
+  height: 100%;
+  width: 100%;
+}
+
+.items-center {
+  align-items: center;
+}
+
+.justify-between {
+  justify-content: space-between;
+}
+
+.p-6 {
+  padding: 6px;
+}
